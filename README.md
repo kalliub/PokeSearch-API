@@ -1,6 +1,10 @@
-# poke-middle
+# api-pokeSearch
 
 a [Sails v1](https://sailsjs.com) application
+
+### Using instructions
+- Before using, move to this repository directory and install dependencies using `npm install`
+- To start the API, on the repository directory, type `sails lift`.
 
 
 ### Links
